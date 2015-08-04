@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dumpitemdata",
+  "name": "DumpItemData",
+  "description": "/dumpitemdata to print info about the held item to the server log. /dumpblockdata for blocks: run the command and right-click on the block.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Okkapel683"],
+  "credits": "N/A",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

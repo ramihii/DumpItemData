@@ -1,0 +1,28 @@
+# Text
+* text=auto
+*.java text eol=lf
+*.groovy text eol=lf
+*.scala text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+*.md text
+*.properties text
+
+# 3D model stuff
+#*.mtl eol=lf
+#*.obj eol=lf
+
+
+# Binary
+*.xcf binary
+*.dat binary
+*.bin binary
+*.png binary
+*.exe binary
+*.dll binary
+*.zip binary
+*.jar binary
+*.7z binary
+*.db binary
+*.mtl binary
+*.obj binary

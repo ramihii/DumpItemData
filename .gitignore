@@ -1,0 +1,24 @@
+run/
+bin/
+modUnpack/
+*.jar
+*.class
+*.javap
+.classpath
+.project
+.settings/
+.gradle/
+eclipse/
+MinecraftForge-README.txt
+Modding-README.txt
+forge*changelog.txt
+LICENSE-fml.txt
+MinecraftForge-License.txt
+MinecraftForge-Credits.txt
+CREDITS-fml.txt
+
+# Scripts
+findObfName
+
+# Misc
+obfuscation_notes
